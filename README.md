@@ -1,6 +1,6 @@
 # Pass-1-of-two-pass-assembler
-This is only pass 1 phase in two pass assembler
-Description of files provided 
+This is only pass 1 phase in two pass assembler.
+
 Input:
 input.txt 
 It is input file for pass1 phase of two pass assembler.
